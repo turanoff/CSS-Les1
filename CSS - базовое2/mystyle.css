@@ -1,0 +1,56 @@
+h1{
+    font-size: 16px;
+    text-align: right;
+    margin-bottom:-1em;}
+   
+span{
+    white-space: nowrap;
+    float: right;
+    margin-bottom:-4em;
+    margin-top:-1em;
+
+    text-align: right;
+    clear: both}
+
+
+address{
+    white-space: pre;
+    text-align: right;
+    margin-top:2em;
+    margin-right: 0em;
+}
+
+time{
+    float: right;
+    margin-right: 15em;
+    clear: both
+}
+    
+
+
+
+h3{
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline;
+    text-indent: 5mm;
+    margin-bottom:0;
+}
+
+article p{
+    font-family: 'Bad Script', cursive;
+    text-indent: 5mm;
+    margin-bottom:0;
+    margin-top:0
+}
+
+footer {
+    margin-top:-1em;
+}
+
+footer p {
+    text-indent: 5mm;
+    margin-bottom:0;
+    margin-top:0
+}
+
